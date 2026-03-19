@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @VillianGaming
 - 👀 I’m interested in making games or hacks/cheats for various games
-- 🌱 I’m currently learning Godot the game engine
-- 💞️ I’m looking to collaborate on Making a game with someone
-- 📫 How to reach me my email; seebombsterboy@gmail.com
+- 🌱 I’m currently learning Unity, the game engine
+- 💞️ I’m looking to collaborate on making a game with someone
+- 📫 How to reach me by email: seebombsterboy@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I used to play piano when I was ten 
+- ⚡ Fun fact: I started on scratch, now I'm with a Unity game in the making 
 
 <!---
 VillianGaming/VillianGaming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
